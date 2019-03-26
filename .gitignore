@@ -1,1 +1,15 @@
-node_modules
+# JetBrains - Developer Tools for Professionals and Teams
+.idea/
+
+# Visual Studio Code - Code Editing - Redefined
+.vscode/
+
+# Operating System
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
